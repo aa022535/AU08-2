@@ -1,0 +1,96 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(images/main_bg01.gif);
+}
+.list_title {
+	font-family: Geneva, Arial;
+	font-size: 12px;
+	color: #FFFFFF;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+.list_sn {
+	font-family: Verdana, Arial;
+	font-size: 12px;
+	color: #0066FF;
+	text-decoration: none;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+.list_sn a{
+	font-family: Verdana, Arial;
+	font-size: 12px;
+	color: #0066FF;
+	text-decoration: none;
+}
+.list_sn a:hover{
+	font-family: Verdana, Arial;
+	font-size: 12px;
+	color: #0000CC;
+	text-decoration: underline;
+}
+
+.list_txt {
+	font-family: Verdana, Arial;
+	color: #666666;
+	font-size: 12px;
+}
+.list_txt a{
+	font-family: Verdana, Arial;
+	color: #666666;
+	font-size: 12px;
+	text-decoration: none;
+}
+.list_txt a:hover{
+	font-family: Verdana, Arial;
+	color: #0000CC;
+	font-size: 12px;
+	text-decoration: underline;
+}
+
+
+
+.list_status_on {
+	font-family: Verdana, Arial;
+	font-size: 12px;
+	color: #666666;
+}
+.list_status_off {
+	font-family: Verdana, Arial;
+	font-size: 12px;
+	color: #FF0000;
+}
+.list_p_name {
+	font-family: Verdana, Arial;
+	color: #FFFFFF;
+	font-size: 12px;
+	text-decoration: none;
+}
+.list_p_name a{
+	font-family: Verdana, Arial;
+	color: #FFFFFF;
+	font-size: 12px;
+	text-decoration: none;
+}
+.list_p_name a:hover{
+	font-family: Verdana, Arial;
+	color: #FFFF00;
+	font-size: 12px;
+	text-decoration: none;
+}
+.login_txt {
+	font-family: Verdana, Arial;
+	font-size: 12px;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+}
+.welcome_txt {
+	font-family: Verdana, Arial;
+	font-size: 14px;
+	line-height: 28px;
+	color: #0000CC;
+	padding-bottom: 10px;
+}
